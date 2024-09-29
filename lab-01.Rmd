@@ -19,7 +19,6 @@ visitors <- read_csv("data/UK-visitor-numbers.csv")
 ```
 
 
-
 # Wrangling Data
 
 ## Question 1
